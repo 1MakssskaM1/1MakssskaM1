@@ -10,6 +10,6 @@
 </p>
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
-   <img src="https://github-readme-stats.vercel.app/api?username=lipa44&show_icons=true&theme=merko&count_private=true" alt="1MakssskaM1" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipa44&layout=compact&hide=CMake,Makefile&theme=merko" alt="1MakssskaM1" />
+   <img src="https://github-readme-stats.vercel.app/api?username=1MakssskaM1&show_icons=true&theme=merko&count_private=true" alt="1MakssskaM1" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1MakssskaM1&layout=compact&hide=CMake,Makefile&theme=merko" alt="1MakssskaM1" />
 </div>
