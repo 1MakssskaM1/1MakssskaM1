@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! My name is Maks, i'm a second-year student of ITMO university<img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/>. 
+<p>Welcome to my page! </br>My name is Maks, i'm a second-year student of ITMO university<img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/>. 
 I develop websites and telegram bots. In my free time I program in c ++, c #, python.
 
 <h3>My skills:</h3>
