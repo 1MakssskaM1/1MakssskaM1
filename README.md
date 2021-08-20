@@ -4,6 +4,12 @@
 <p>Welcome to my page!
 </br>My name is Maks, i'm a second-year student of ITMO university<img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/>. 
 </br>I develop websites and telegram bots. In my free time I program in `C++`, `C#`, `Python`.
+### <h1 align="center">Wassup! <img src="https://i.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.webp" height="40px" align="center"></img></h1>
+
+My name is Misha, I'm from Saint-Petersburg, Russia.
+
+#### 👨‍🎓 Studying at ITMO University, 1 course.
+
 #### 👨‍💻 I’m currently learning:
    - Programming (`C++`)
    - Algorithms and data structures (`C++`)
