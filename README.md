@@ -15,10 +15,10 @@
 </p>
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
-   <img src="https://github-readme-stats.vercel.app/api?username=1MakssskaM1&show_icons=true&theme=merko&count_private=true" alt="1MakssskaM1" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Maksss-ssskaM&show_icons=true&theme=merko&count_private=true" alt="Maksss-ssskaM" />
 </div>
 <div display="inline-flex"  align-items="center" justify-content="space-between">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1MakssskaM1&layout=compact&hide=CMake,Makefile&theme=merko" alt="1MakssskaM1" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksss-ssskaM&layout=compact&hide=CMake,Makefile&theme=merko" alt="Maksss-ssskaM" />
 </div>
 <h3>My social networks:</h3>
 <a href="https://www.instagram.com/maksss_ssskam/">
