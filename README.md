@@ -9,6 +9,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python-%23F5792A.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%2361DAFB"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%23F5792A.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=Photoshop&logoColor=%2361DAFB"/>
 </p>
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
