@@ -3,8 +3,11 @@
 
 <p>Welcome to my page!
 </br>My name is Maks, i'm a second-year student of ITMO university<img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/>. 
-####I develop websites and telegram bots. In my free time I program in `C++`, `C#`, `Python`.
-
+</br>I develop websites and telegram bots. In my free time I program in `C++`, `C#`, `Python`.
+#### 👨‍💻 I’m currently learning:
+   - Programming (`C++`)
+   - Algorithms and data structures (`C++`)
+   - Trying to lerarn `JavaScript`/`Html`/`Css` by myself
 <h3>My skills:</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23F5792A.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
