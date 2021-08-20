@@ -1,14 +1,9 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey! Nice to see you.</h1>
 
-
-<p>Welcome to my page!
-</br>My name is Maks, i'm a second-year student of ITMO university<img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/>. 
-</br>I develop websites and telegram bots. In my free time I program in `C++`, `C#`, `Python`.
-
 #### Welcome to my page!
 
 #### My name is Maks, i'm a second-year student of ITMO university<img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/>. 
-   I develop websites and telegram bots. In my free time I program in `C++`, `C#`, `Python`.
+   I develop websites and telegram bots, and also I program in `C++`, `C#`, `Python`.
 <h3>My skills:</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23F5792A.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
