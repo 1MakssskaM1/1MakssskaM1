@@ -2,6 +2,14 @@
 
 
 <p>Welcome to my page! </br> My name is Maks, i'm a second-year student of ITMO university<img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/>. 
+( function repeat() ) {
+    eat();
+    sleep();
+    coffeeLoader();
+    code();
+    repeat();
+}) ();
+
 <h3>My skills:</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23F5792A.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
