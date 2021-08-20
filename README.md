@@ -23,7 +23,7 @@
    <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
 </a>
 <a href="https://vk.com/maksss_ssskam">
-   <img top="0" src="https://img.shields.io/badge/vk-%23E4405F.svg?style=for-the-badge&logo=Vk&logoColor=white" alt="ВК" target="_blank" margin-left="10px">
+   <img top="0" src="https://img.shields.io/badge/ВК-%23E4405F.svg?style=for-the-badge&logo=Vk&logoColor=white" alt="ВК" target="_blank" margin-left="10px">
 </a>
 
 
