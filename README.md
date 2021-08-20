@@ -6,7 +6,7 @@
 </br>I develop websites and telegram bots. In my free time I program in `C++`, `C#`, `Python`.
 My name is Misha, I'm from Saint-Petersburg, Russia.
 
-#### 👨‍🎓 Studying at ITMO University, 1 course.
+#### Welcome to my page!
 
 #### 👨‍💻 I’m currently learning:
    - Programming (`C++`)
