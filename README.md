@@ -3,6 +3,7 @@
 
 <p>Welcome to my page! </br> My name is Maks, i'm a second-year student of ITMO university<img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/>. 
 ```js
+<?js
 ( function repeat() ) {
     eat();
     sleep();
