@@ -22,6 +22,7 @@
 <div display="inline-flex"  align-items="center" justify-content="space-between">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksss-ssskaM&layout=compact&hide=CMake,Makefile&theme=merko" alt="Maksss-ssskaM" />
 </div>
+<a href="https://github.com/Maksss-ssskaM/github-readme-stats">
 
 ### Code wars:
 
