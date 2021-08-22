@@ -4,7 +4,7 @@
 
 #### My name is Maks, i'm a second-year student of ITMO university<img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/>. 
    I develop websites and telegram bots. Аlso I program in `C++`, `C#`, `Python`.
-<h3>My skills:</h3>
+### My skills:
 <p>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23F5792A.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2361DAFB"/>
@@ -14,7 +14,7 @@
   <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=Photoshop&logoColor=%2361DAFB"/>
 </p>
 
-<h3>My statistics</h3>
+### My statistics:
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
    <img src="https://github-readme-stats.vercel.app/api?username=Maksss-ssskaM&show_icons=true&theme=merko&count_private=true" alt="Maksss-ssskaM" />
@@ -23,12 +23,14 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksss-ssskaM&layout=compact&hide=CMake,Makefile&theme=merko" alt="Maksss-ssskaM" />
 </div>
 
-<h3>Code wars</h3>
+### Code wars:
 
 <p>
    <img src="https://www.codewars.com/users/Maksss_ssskaM/badges/large" alt="Maksss_ssskaM" />
 </p>
-<h3>My social networks:</h3>
+
+### My social networks:
+
 <a href="https://www.instagram.com/maksss_ssskam/">
    <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
 </a>
