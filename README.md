@@ -14,7 +14,7 @@
   <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=Photoshop&logoColor=%2361DAFB"/>
 </p>
 
-## My statistics
+<h3>My statistics</h3>
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
    <img src="https://github-readme-stats.vercel.app/api?username=Maksss-ssskaM&show_icons=true&theme=merko&count_private=true" alt="Maksss-ssskaM" />
@@ -22,6 +22,9 @@
 <div display="inline-flex"  align-items="center" justify-content="space-between">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksss-ssskaM&layout=compact&hide=CMake,Makefile&theme=merko" alt="Maksss-ssskaM" />
 </div>
+
+<h3>Code wars</h3>
+
 <p>
    <img src="https://www.codewars.com/users/Maksss_ssskaM/badges/large" alt="Maksss_ssskaM" />
 </p>
