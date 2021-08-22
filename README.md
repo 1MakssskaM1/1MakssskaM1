@@ -14,15 +14,17 @@
   <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=Photoshop&logoColor=%2361DAFB"/>
 </p>
 
-<p>
-   <img src="https://www.codewars.com/users/Maksss_ssskaM/badges/large" alt="Maksss_ssskaM" />
-</p>
+## My statistics
+
 <div display="inline-flex"  align-items="center" justify-content="space-between">
    <img src="https://github-readme-stats.vercel.app/api?username=Maksss-ssskaM&show_icons=true&theme=merko&count_private=true" alt="Maksss-ssskaM" />
 </div>
 <div display="inline-flex"  align-items="center" justify-content="space-between">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksss-ssskaM&layout=compact&hide=CMake,Makefile&theme=merko" alt="Maksss-ssskaM" />
 </div>
+<p>
+   <img src="https://www.codewars.com/users/Maksss_ssskaM/badges/large" alt="Maksss_ssskaM" />
+</p>
 <h3>My social networks:</h3>
 <a href="https://www.instagram.com/maksss_ssskam/">
    <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
