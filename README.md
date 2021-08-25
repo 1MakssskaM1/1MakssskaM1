@@ -20,8 +20,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maksss-ssskaM&show_icons=true&title_color=FF923D&icon_color=FF923D&text_color=9f9f9f&bg_color=322f2f )
 
-<a href="https://github.com/Maksss-ssskaM/github-readme-stats">
-
 ### Code wars:
 
 <p>
