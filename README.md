@@ -2,7 +2,7 @@
 
 #### Welcome to my page!
 
-#### My name is Maks, i'm a second-year student of ITMO university<img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/>. 
+#### My name is Maks, i'm a third-year student of ITMO university. 
    I develop websites and telegram bots. Аlso I program in `C++`, `C#`, `Python`.
 ### My skills:
 <p>
