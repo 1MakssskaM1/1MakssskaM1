@@ -3,15 +3,19 @@
 #### Welcome to my page!
 
 #### My name is Maks, i'm a third-year student of ITMO university. 
-   I develop websites and telegram bots. Аlso I program in `C++`, `C#`, `Python`.
+
 ### My skills:
 <p>
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23F5792A.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2361DAFB"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%23F5792A.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%2361DAFB"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%23F5792A.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=Photoshop&logoColor=%2361DAFB"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white"/>
+   
 </p>
 
 ### My statistics:
