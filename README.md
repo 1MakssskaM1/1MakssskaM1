@@ -2,7 +2,7 @@
 
 #### Welcome to my page!
 
-#### My name is Max, I am a fourth-year student at ITMO University. 
+#### My name is Maks, I'm a fourth-year student at ITMO University. 
 
 ### My skills:
 <p>
