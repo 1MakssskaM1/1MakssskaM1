@@ -22,8 +22,8 @@
 ## My statistics:
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maksss-ssskaM&show_icons=true&title_color=FF923D&icon_color=FF923D&text_color=9f9f9f&bg_color=322f2f" alt="Maks Shein's GitHub stats" height="250px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksss-ssskaM&show_icons=true&title_color=FF923D&icon_color=FF923D&text_color=9f9f9f&bg_color=322f2f" alt="Top Langs" height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maksss-ssskaM&show_icons=true&title_color=FF923D&icon_color=FF923D&text_color=9f9f9f&bg_color=322f2f" alt="Maks Shein's GitHub stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksss-ssskaM&show_icons=true&title_color=FF923D&icon_color=FF923D&text_color=9f9f9f&bg_color=322f2f" alt="Top Langs" height="200px" />
 </p>
 
 ## My social networks:
