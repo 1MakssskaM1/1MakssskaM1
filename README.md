@@ -7,7 +7,6 @@
 ## My skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Aiogram 3](https://img.shields.io/badge/Aiogram%203-272F3B?style=for-the-badge&logo=telegram&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4E98B8?style=for-the-badge&logo=sqlalchemy&logoColor=white)
