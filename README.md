@@ -25,6 +25,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maksss-ssskaM&show_icons=true&title_color=FF923D&icon_color=FF923D&text_color=9f9f9f&bg_color=322f2f" alt="Top Langs" height="200px" />
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Maksss-ssskaM?theme=dark&font=IM%20Fell%20Double%20Pica&ext=contest)
+
 ## My social networks:
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maksss_ssskam/)
